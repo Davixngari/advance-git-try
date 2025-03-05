@@ -1,3 +1,5 @@
 print("hello kenya yangu")
 
-print ("i would like to be a pro")
+print("i want to be a pro")
+
+print ("clone")
